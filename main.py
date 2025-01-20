@@ -3,9 +3,6 @@ import requests
 from dotenv import load_dotenv
 import os
 
-# Microsoft Graph API認証情報
-# CLIENT_ID = "714f83a4-070b-49db-acc5-3ab902811711"
-# TENANT_ID = "ca9c2885-f052-48d0-98f2-4ee2bfc5cc07"
 # .envファイルから環境変数を読み込む
 load_dotenv()
 
